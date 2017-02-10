@@ -95,7 +95,7 @@ Some values are strings, some are port (uint16 in network order / big endian).
 apt-get install mysql-server mysql-client
 [/code]
 CNC requires database to work. When you install database, go into it and run following commands:
-http://pastebin.com/86d0iL9g
+http://pastebin.com/86d0iL9g (((DEAD NOW)))
 
 This will create database for you. To add your user,
 [code]
